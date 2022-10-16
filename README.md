@@ -22,11 +22,11 @@ As "chaves" de criptografia utilizadas são:<br>
 
 Funcionalidade:
 ---
-- Funciona apenas com letras minúsculas
-- Não devem ser utilizados letras com acentos nem caracteres especiais
-- É possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
+- Funciona apenas com letras minúsculas.
+- Não devem ser utilizados letras com acentos nem caracteres especiais.
+- Converter a palavra para a versão criptografada e também retorna a palavra criptografada para a versão original.
 
-Por exemplo:
+Por exemplo:<br>
 "escola" => "enterscoberlai"<br>
 "enterscoberlai" => "escola"
 
